@@ -6,5 +6,6 @@
   :dependencies [
 	  	[org.clojure/clojure "1.6.0"]
 	  	[net.mikera/core.matrix "0.30.2"]
+	  	[clatrix "0.3.0"]
   	]
   :main matrix.core)
