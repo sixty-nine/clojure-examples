@@ -1,5 +1,7 @@
 # clojure-examples
 
+Some Clojure code I write while I learn.
+
 ## Usage
 
  ```
